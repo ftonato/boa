@@ -24,7 +24,7 @@ tool to use. It will install Rust and allow you to switch between _nightly_,
 _stable_ and _beta_. You can also install additional components. In Linux, you
 can run:
 
-```Bash
+```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
